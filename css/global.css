@@ -1,0 +1,107 @@
+
+#wrapper { 
+		background-color: #000000;
+		opacity: 0.6;
+}
+
+#content {
+	padding-top: 70px;
+	
+}
+
+#aboutcontent {
+	padding: 20px 20px;
+	color:#FFFFFF;
+        background-color: #000000;
+}
+
+#blogcontent {
+	text-align: center;
+	
+}
+
+.largeIcon {
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+a:hover {
+	color: #ff0000;
+	text-decoration: none;
+	animated pulse;
+}
+a:active {
+	text-decoration: none;
+}
+
+h1 { 
+	 background-color: #FFFFFF;
+     opacity: 0.5;
+     font-size: 60px;
+     font-weight: 700;
+     padding: 20px;
+     text-align: right;
+	}
+
+h2 {
+	color: #FFFFFF;
+	padding: 20px;
+}
+
+h3 {
+	color: #FF0000;
+}
+
+h4 {
+	color: #FF0000;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+table
+{
+  width: 70%;
+  border: 1px black solid;
+  margin: auto;
+  border-collapse: collapse;
+  
+}
+
+th {color: white; background-color: black;
+	text-align: center;
+	border: 1px black solid;
+}
+
+td {border: 1px black solid;
+	text-align:center;
+
+}
+
+p { 
+	padding-left: 5px;
+	padding-right: 5px;
+	font-family: tahoma;
+	font-size: 14px;
+}
+
+.cards {
+	border-style:solid;
+	border-width: 1px;
+	text-align:center;
+	color:#000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	-webkit-box-shadow: 3px 3px 3px #828282;
+	 -moz-box-shadow: 3px 3px 3px #828282;
+	 box-shadow: 3px 3px 3px #828282;
+
+}
+
+.jumbotron {
+	background-image: url('../images/mainbg.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	padding-right: 0px:;
+	min-height: 620px;
+	margin-bottom: 0px;
+}
